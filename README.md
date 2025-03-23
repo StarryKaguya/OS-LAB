@@ -1,2 +1,2 @@
 # OS-LAB
-OSLAB
+OS Lab in BJTU.
